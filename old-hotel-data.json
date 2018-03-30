@@ -1,0 +1,205 @@
+{
+    "id": 178,
+    "name": "Hotel Raja Galaxy",
+    "longitude": "77.598",
+    "latitude": "12.9166",
+    "address": "Opposite Jayadeva Hospital, East End Bus Stop, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078",
+    "frontImg": "raja-galaxy/1.jpg",
+    "imagePaths": [
+      "raja-galaxy/1.jpg",
+      "raja-galaxy/2.jpg",
+      "raja-galaxy/3.jpg",
+      "raja-galaxy/4.jpg",
+      "raja-galaxy/5.jpg",
+      "raja-galaxy/6.jpg"
+    ],
+    "facilities": [
+      "AC",
+      "CCTV",
+      "Charging_Point",
+      "Geyser",
+      "News_Paper",
+      "Parking",
+      "Soap",
+      "Card_Payment",
+      "Shower",
+      "WIFI",
+      "Breakfast"
+    ],
+    "timelineMsg1": "Raja Galaxy is just 6 km from Lalbagh Botanical Garden.",
+    "timelineMsg2": "Splendid view from the Rooms, Play area for Kids, ample space for car parking and most important heavenly and delicious authentic Bangalore Cuisine.",
+    "importantMsgs": [
+    ],
+    "hotelHours": [
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 62,
+        "type": "2 Hour",
+        "typeValue": 2
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 63,
+        "type": "3 Hour",
+        "typeValue": 3
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 64,
+        "type": "4 Hour",
+        "typeValue": 4
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 65,
+        "type": "5 Hour",
+        "typeValue": 5
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 66,
+        "type": "6 Hour",
+        "typeValue": 6
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 61,
+        "type": "1 Hour",
+        "typeValue": 1
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51711,
+        "type": "7 Hour",
+        "typeValue": 7
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51712,
+        "type": "8 Hour",
+        "typeValue": 8
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51713,
+        "type": "9 Hour",
+        "typeValue": 9
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51714,
+        "type": "10 Hour",
+        "typeValue": 10
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51715,
+        "type": "11 Hour",
+        "typeValue": 11
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51716,
+        "type": "12 Hour",
+        "typeValue": 12
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51717,
+        "type": "Regular Hotel",
+        "typeValue": 100
+      },
+      {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 51718,
+        "type": "Night Stay",
+        "typeValue": 200
+      }
+    ],
+    "city": {
+      "createdBy": null,
+      "creationDate": null,
+      "lastModifiedBy": null,
+      "lastModifiedDate": null,
+      "id": 20,
+      "name": "Bengaluru",
+      "active": false
+    },
+    "locality": {
+      "createdBy": null,
+      "creationDate": null,
+      "lastModifiedBy": null,
+      "lastModifiedDate": null,
+      "id": 31,
+      "name": "BTM Layout",
+      "city": {
+        "createdBy": null,
+        "creationDate": null,
+        "lastModifiedBy": null,
+        "lastModifiedDate": null,
+        "id": 20,
+        "name": "Bengaluru",
+        "active": false
+      }
+    },
+    "hotelCategory": {
+      "createdBy": null,
+      "creationDate": null,
+      "lastModifiedBy": null,
+      "lastModifiedDate": null,
+      "id": 6758,
+      "category": "Budget Hotel",
+      "description": "Budget Hotel"
+    },
+    "user": {
+      "id": 2611,
+      "firstName": "Akhil ",
+      "lastName": "Ann ",
+      "emailId": "gm@rajagalaxy.com",
+      "mobile": "9108429955",
+      "token": null
+    },
+    "priorDays": 7
+  }
